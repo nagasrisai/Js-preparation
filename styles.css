@@ -1,0 +1,15 @@
+.red-light-container {
+  height: 300px;
+  border: 1px solid black;
+  width: 100px;
+  padding: 20px;
+
+}
+
+.color-box {
+  height: 100px;
+  width: 100px;
+  border: 1px solid black;
+  margin: 5px;
+  border-radius:100%;
+}
